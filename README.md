@@ -54,17 +54,6 @@ pip install numpy pandas matplotlib scikit-learn
 
 ---
 
-## ⚙️ Installation
-Clone the repository and install dependencies:  
-
-```bash
-git clone https://github.com/Abhi2790/heart-disease-prediction.git
-cd heart-disease-prediction
-pip install -r requirements.txt
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Add more ML models (Random Forest, SVM, XGBoost)
